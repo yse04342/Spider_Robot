@@ -1,3 +1,5 @@
+/* 현장실습 1 - 아두이노를 이용한 거미로봇(Spider_Robot)*/
+
 #include <Servo.h> // 서모모터 헤더파일
 #include <SoftwareSerial.h> //블루투스 모듈 사용 헤더파일
 
